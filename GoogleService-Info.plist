@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>91938778152-cv3t36g2t4qmfof88904guofu41p2miq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.91938778152-cv3t36g2t4qmfof88904guofu41p2miq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwGBCxkBXulchtJl-EPc0a6QT-qkknb8s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>91938778152</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>parrwiz.Arkan</string>
+	<key>PROJECT_ID</key>
+	<string>arkan-appp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arkan-appp.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:91938778152:ios:5b7f24c990fa50087ad91d</string>
+	<key>DATABASE_URL</key>
+	<string>https://arkan-appp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
